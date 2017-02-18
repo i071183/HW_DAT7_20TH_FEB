@@ -1,1 +1,2 @@
-Summary of Datat Science Chapter by Hilary Masaon /n
+Summary of Data Science Chapter by Hilary Masaon 
+
